@@ -1,0 +1,28 @@
+{
+    "haircuts" : {
+        "basic": {
+            "price": 25,
+            "shortDescription": "a bunch of words",
+            "description":"long",
+            "time": 30,
+            "url":"this.com",
+            "fuFuntion":"this is the function that fucks homie"
+        },
+        "basicBeard": {
+            "price": 30,
+            "shortDescription": "a bunch of words and beard",
+            "description":"long",
+            "time": 35,
+            "url":"this.com",
+            "fuFuntion":"this is the function that fucks homie"
+        },
+        "nextLevel": {
+            "price": 35,
+            "shortDescription": "a bunch of royal words",
+            "description":"long",
+            "time": 30,
+            "url":"this.com",
+            "fuFuntion":"this is the function that fucks homie"
+        }
+    }
+}
