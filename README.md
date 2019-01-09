@@ -103,5 +103,4 @@ if you want just give me some pointers and jump into the code dont worry about b
 
 on the location page you might recieve an error just go to the "public/index.html" in public delete everything and paste 
 
-'''<!DOCTYPE html><html><head><script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4JPSGFEX4NdE9--T8AonB_hkRJ7OpQ_o&&libraries=geometry,drawing,places"
-      type="text/javascript"></script><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><script src="/socket.io/socket.io.js"></script></head><body><div id="___gatsby"></div><script src="/commons.js"></script></body></html>'''# tailored-cuts
+ASK MIKE FOR THE SCRIPT
